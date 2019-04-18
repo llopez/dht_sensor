@@ -1,0 +1,8 @@
+{
+  "ssid":"",
+  "pwd":"",
+  "mqtt_ip":"",
+  "mqtt_client_id":"",
+  "temp_topic":"",
+  "hum_topic":""
+}
